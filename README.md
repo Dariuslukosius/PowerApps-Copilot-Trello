@@ -30,13 +30,15 @@
 
 ## Screenshots
 
-- **Power Automate Flow:**  
+## Screenshots
+
+**Power Automate Flow:**  
 ![Flow Screenshot](images/flow.png) – screenshot of the Power Automate flow.
 
-- **Trello Card Created:**  
+**Trello Card Created:**  
 ![Trello Screenshot](images/trello.png) – screenshot of the created Trello card.
 
----
+   
 
 ## Flow Sample
 
