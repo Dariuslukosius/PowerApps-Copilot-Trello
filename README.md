@@ -1,4 +1,3 @@
-
 - `images/flow.png` – screenshot of the Power Automate flow.
 - `images/trello.png` – screenshot of the created Trello card.
 
